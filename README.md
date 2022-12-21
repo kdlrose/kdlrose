@@ -9,13 +9,8 @@ Humanities graduate student, cultural worker, and front-end dabbler. My first we
 - 🌈 Live and die by **[catppuccin](https://github.com/catppuccin/catppuccin)**
 
 ## Currently
-- 🧶 **[sweater-curse](https://github.com/kdlrose/sweater-curse)**, a `.js` calculator based on *Knitting Without Tears*
+- 🧶 **[sweater-curse](https://github.com/kdlrose/sweater-curse)**, a `.js` knitting pattern generator based on [Elizabeth Zimmermann's percentages](https://tutorials.knitpicks.com/percentage-system/)
 
 ## 2k23 Goals
 - 🪩 **Learn** `React.js`, `styled-components`
 - 🧦 An Obsidian.md [Ravelry](https://www.ravelry.com/api) plug-in
-
-<!---
-kdlrose/kdlrose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
