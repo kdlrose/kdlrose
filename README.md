@@ -12,5 +12,5 @@ Humanities graduate student, cultural worker, and front-end dabbler. My first we
 - 🧶 **[sweater-curse](https://github.com/kdlrose/sweater-curse)**, a `.js` knitting pattern generator based on [Elizabeth Zimmermann's percentages](https://tutorials.knitpicks.com/percentage-system/)
 
 ## 2k23 Goals
-- 🪩 **Learn** `React.js`, `styled-components`
+- 🪩 **Learn** `Vue.js`, `React.js`, `styled-components`
 - 🧦 An Obsidian.md [Ravelry](https://www.ravelry.com/api) plug-in
