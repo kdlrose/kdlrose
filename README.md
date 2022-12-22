@@ -1,6 +1,6 @@
 # 👩🏻‍💻
 
-hobbyist learning in public! my first website was a Neopets Petpage about *High School Musical*
+hobbyist, my first website was a Neopets Petpage about *High School Musical*
 
 ## stack
 - 🍦 **front-end development** with `CSS` + `Sass`, `HTML`
