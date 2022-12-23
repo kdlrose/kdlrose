@@ -12,5 +12,5 @@ hobbyist, my first website was a Neopets Petpage about *High School Musical*
 - 🧶 **[ez-sweater](https://github.com/kdlrose/ez-sweater)**, a vanilla JavaScript web app based on [Elizabeth Zimmermann's percentages](https://tutorials.knitpicks.com/percentage-system/)
 
 ## 2k23 goals
-- 🪩 **learn** `Vue.js`, `React.js`, `styled-components`
+- 🪩 **learn** `styled-components` + `TypeScript`, `Ruby`
 - 🧦 an Obsidian.md [Ravelry](https://www.ravelry.com/api) plug-in
